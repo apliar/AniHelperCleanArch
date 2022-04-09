@@ -1,0 +1,12 @@
+C:\Users\Apliar\source\repos\AniHelperCleanArchitecture\AniHelper.Core\bin\Debug\net6.0\AniHelper.Core.deps.json
+C:\Users\Apliar\source\repos\AniHelperCleanArchitecture\AniHelper.Core\bin\Debug\net6.0\AniHelper.Core.dll
+C:\Users\Apliar\source\repos\AniHelperCleanArchitecture\AniHelper.Core\bin\Debug\net6.0\ref\AniHelper.Core.dll
+C:\Users\Apliar\source\repos\AniHelperCleanArchitecture\AniHelper.Core\bin\Debug\net6.0\AniHelper.Core.pdb
+C:\Users\Apliar\source\repos\AniHelperCleanArchitecture\AniHelper.Core\obj\Debug\net6.0\AniHelper.Core.csproj.AssemblyReference.cache
+C:\Users\Apliar\source\repos\AniHelperCleanArchitecture\AniHelper.Core\obj\Debug\net6.0\AniHelper.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Apliar\source\repos\AniHelperCleanArchitecture\AniHelper.Core\obj\Debug\net6.0\AniHelper.Core.AssemblyInfoInputs.cache
+C:\Users\Apliar\source\repos\AniHelperCleanArchitecture\AniHelper.Core\obj\Debug\net6.0\AniHelper.Core.AssemblyInfo.cs
+C:\Users\Apliar\source\repos\AniHelperCleanArchitecture\AniHelper.Core\obj\Debug\net6.0\AniHelper.Core.csproj.CoreCompileInputs.cache
+C:\Users\Apliar\source\repos\AniHelperCleanArchitecture\AniHelper.Core\obj\Debug\net6.0\AniHelper.Core.dll
+C:\Users\Apliar\source\repos\AniHelperCleanArchitecture\AniHelper.Core\obj\Debug\net6.0\ref\AniHelper.Core.dll
+C:\Users\Apliar\source\repos\AniHelperCleanArchitecture\AniHelper.Core\obj\Debug\net6.0\AniHelper.Core.pdb
